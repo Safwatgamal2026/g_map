@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Saudi male avatar 2">
+  <defs>
+    <pattern id="p2" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="10" height="10" fill="#ffffff"/>
+      <path d="M0 0h5v10H0z" fill="#c81e1e"/>
+    </pattern>
+  </defs>
+  <circle cx="60" cy="60" r="58" fill="#f1f5f9"/>
+  <rect x="0" y="0" width="120" height="120" fill="#ede9fe"/>
+  <path d="M16 28h88v34H16z" fill="url(#p2)"/>
+  <rect x="22" y="28" width="76" height="10" rx="4" fill="#111827"/>
+  <ellipse cx="60" cy="58" rx="22" ry="25" fill="#d6a07a"/>
+  <circle cx="52" cy="57" r="2.2" fill="#1f2937"/>
+  <circle cx="68" cy="57" r="2.2" fill="#1f2937"/>
+  <path d="M50 66h20" stroke="#7c2d12" stroke-width="2.3" stroke-linecap="round"/>
+  <path d="M33 116c3-18 15-30 27-30s24 12 27 30" fill="#ffffff"/>
+  <circle cx="60" cy="60" r="58" fill="none" stroke="#cbd5e1" stroke-width="2"/>
+</svg>
